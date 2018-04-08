@@ -2,6 +2,9 @@
 
 ## A really simple image storage system
 
+## Set up
+Run the `env.php` file
+
 ### RESTful API
 
 Upload an image(Access token require)
